@@ -1,0 +1,17 @@
+#logo {
+    height: 55px;
+    width: auto;
+    margin-right: 30px;
+}
+
+main {
+    margin-top: 25px;
+}
+
+select#offer {
+    min-height: 130px;
+}
+
+tfoot tr td {
+    border-top-width: 2px !important;
+}
